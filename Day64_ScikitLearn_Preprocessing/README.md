@@ -3,7 +3,7 @@
 Today I explored **data preprocessing and feature scaling** techniques in Scikit-Learn.  
 Preprocessing ensures that features are on comparable scales, which improves model performance.
 
----
+--- 
 
 ##  Topics Covered
 - Why data preprocessing is important
