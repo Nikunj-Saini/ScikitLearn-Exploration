@@ -7,7 +7,7 @@ Today, I began my journey into **Classification Algorithms** by learning **Logis
   \[
   P(y=1) = \frac{1}{1 + e^{-(b_0 + b_1x_1 + ... + b_nx_n)}}
   \]
-- The output is between 0 and 1, representing the probability of a class.
+- The output is between 0 and 1, representing the probability of a class. 
 - Steps followed:
   - Loaded a binary classification dataset
   - Trained a Logistic Regression model using Scikit-Learn
