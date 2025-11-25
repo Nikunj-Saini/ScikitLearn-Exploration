@@ -14,7 +14,7 @@ Today, I learned how **K-Nearest Neighbors (KNN)** works — a simple yet powerf
 ##  Key Parameters
 - `n_neighbors`: Number of nearest neighbors (k)
 - `metric`: Distance metric (default: Euclidean)
-- `weights`: Determines how neighbors contribute to classification (`uniform` or `distance`)
+- `weights`: Determines how neighbors contribute to classification (`uniform` or `distance`) 
 
 ##  Evaluation
 - Used accuracy score and confusion matrix for performance evaluation.
