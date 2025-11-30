@@ -7,7 +7,7 @@ Today, I learned how **K-Nearest Neighbors (KNN)** works — a simple yet powerf
 - It classifies new data points by looking at the **k nearest neighbors** in the training data and taking a majority vote.
 - Steps I practiced:
   - Generated sample data using `make_classification`
-  - Trained and tested KNN with different k values
+  - Trained and tested KNN with different k values  
   - Visualized decision boundaries
   - Compared performance for multiple k values
 
